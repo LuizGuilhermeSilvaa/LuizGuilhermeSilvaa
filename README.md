@@ -18,5 +18,5 @@
 
 ## Contact Me
 <div>
-    <a href="www.linkedin.com/in/luiz-guilherme-silva-de-oliveira-7aa550287"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luizguilhermesilvaa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
