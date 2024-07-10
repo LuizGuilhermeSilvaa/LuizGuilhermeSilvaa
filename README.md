@@ -6,17 +6,16 @@
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizGuilhermeSilvaa&theme=dark&layout=compact" alt="MOst used languages">
 </div>
    
-## Skills
+## Habilidades
 <div>
     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ##
 
-## Contact Me
+## Contate-me
 <div>
     <a href="https://www.linkedin.com/in/luizguilhermesilvaa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
