@@ -1,4 +1,4 @@
-## Olá, Me chamo Luiz Guilherme!👋
+## Olá, Me chamo Luiz Guilherme!
 
 <div>
     <a href="https://github.com/LuizGuilhermeSilvaa"></a>
