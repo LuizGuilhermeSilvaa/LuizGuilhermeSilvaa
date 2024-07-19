@@ -2,8 +2,8 @@
 
 <div>
     <a href="https://github.com/LuizGuilhermeSilvaa"></a>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizGuilhermeSilvaa&show_icons=true&theme=dark" alt="">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizGuilhermeSilvaa&theme=dark&layout=compact" alt="Linguagens mais usadas">
+<!--     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizGuilhermeSilvaa&show_icons=true&theme=dark" alt="">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizGuilhermeSilvaa&theme=dark&layout=compact" alt="Linguagens mais usadas"> -->
 </div>
    
 ## Habilidades
