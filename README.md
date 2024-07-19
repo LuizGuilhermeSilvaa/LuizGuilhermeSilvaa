@@ -6,7 +6,7 @@
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizGuilhermeSilvaa&theme=dark&layout=compact" alt="Linguagens mais usadas"> -->
 </div>
    
-## Habilidades
+## Minhas Habilidades
 <div>
     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
